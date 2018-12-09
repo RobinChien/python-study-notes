@@ -73,5 +73,5 @@ ZeroDivisionError: division by zero
 ## 結語
 當然你還是可以繼續使用hasattr()，**但記得在class修改的時候去修復對應的hasattr()**，不過這也會造成開發時增加了不必要的精神負擔。
 
-##Reference
+## Reference
 https://hynek.me/articles/hasattr/
